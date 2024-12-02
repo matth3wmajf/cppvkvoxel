@@ -1,0 +1,11 @@
+{
+	"configurations": [
+	{
+		"name": "Launch",
+		"type": "lldb",
+		"request": "launch",
+		"program": "${workspaceFolder}\\build\\cppvkvoxel.exe",
+		"cwd": "${workspaceFolder}\\build"
+	}
+	]
+}
